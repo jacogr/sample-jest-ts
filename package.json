@@ -1,0 +1,20 @@
+{
+  "name": "sample-jest-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jacogr/sample-jest-ts.git",
+  "author": "Jaco Greeff <jacogr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/util": "^6.0.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.3",
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
